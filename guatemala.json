@@ -58,5 +58,11 @@
     "title": "canal 13",
     "file": "http://72.1.184.5:8089/play/a044/index.m3u8",
     "image": "https://www.tvguatemalaenvivo.com/upload/canal-13-guatemala.jpg"
+  },
+  {
+    "id": "23382",
+    "title": "baby tv",
+    "file": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
+    "image": "https://www.tvguatemalaenvivo.com/upload/canal-13-guatemala.jpg"
   }
 ]
