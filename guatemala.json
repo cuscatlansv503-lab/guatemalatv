@@ -85,8 +85,8 @@
   },
   {
     "id": "23386",
-    "title": "Futv",
-    "file": "http://168.196.127.137:6001/play/a07z/index.m3u8",
-    "image": ""
+    "title": "mas tv",
+    "file": "https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8",
+    "image": "https://i.imgur.com/3XuwlkQ.jpg"
   }
 ]
